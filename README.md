@@ -20,6 +20,5 @@
    * Which states were visited most during each season? In total?
    
 ## Objectives
-* A
-* B
-* C
+* Data Pre-processing
+* Explorative Data Analysis
