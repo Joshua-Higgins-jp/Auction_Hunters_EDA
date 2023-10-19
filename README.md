@@ -21,4 +21,4 @@
    
 ## Objectives
 * Data Pre-processing ([Part 1](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA/blob/master/auction_hunters_preprocessing.ipynb))
-* Explorative Data Analysis
+* Explorative Data Analysis ([Part 2](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA/blob/master/auction_hunters_eda.ipynb))
