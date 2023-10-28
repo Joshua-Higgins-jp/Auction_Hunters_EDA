@@ -2,8 +2,8 @@
 ## Exploratory Data Analysis
 #### Joshua Higgins | March~ 2023
 
-## Objectives
-* [Data Pre-processing](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA/blob/master/auction_hunters_preprocessing.ipynb)
+## Project Stages
+* [Data Collection and Cleaning](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA/blob/master/auction_hunters_preprocessing.ipynb)
 * [Explorative Data Analysis](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA/blob/master/auction_hunters_eda.ipynb)
 
 ## What is *Auction Hunters*?
