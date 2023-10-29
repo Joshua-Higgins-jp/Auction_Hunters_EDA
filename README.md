@@ -2,7 +2,7 @@
 ## Exploratory Data Analysis
 #### Joshua Higgins | March~ 2023
 
-## Project Stages
+## Project Stages (Click to see)
 * [Data Collection and Cleaning](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA/blob/master/auction_hunters_preprocessing.ipynb)
    * Web Scraping / API
    * Data Extraction
@@ -31,7 +31,7 @@
    * It's like having an offsite garage for your personal items that you cannot keep at home.
 * If a customer stops paying their unit fee, the company owning the storage unit can auction off the contents to empty it and allow a new customer to use the storage unit space.
 * Some people make a living off of buying these "abandoned" storage units and then selling the contents for a profit.
-* Before buying a storage unit, potential buyers are not allowed inside the unit.
+* Before buying an "abandoned" storage unit, potential buyers are not allowed inside the unit.
    * This is referred to as an eyes only inspection.
    * Potential buyers can only see from the open door what is inside. 
    * However, utilities such as torches and binoculars are allowed to get a "better view".
