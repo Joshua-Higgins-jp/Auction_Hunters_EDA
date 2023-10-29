@@ -4,7 +4,18 @@
 
 ## Project Stages
 * [Data Collection and Cleaning](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA/blob/master/auction_hunters_preprocessing.ipynb)
+   * Web Scraping / API
+   * Data Extraction
+   * Data Formatting
+   * Data Validation
 * [Explorative Data Analysis](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA/blob/master/auction_hunters_eda.ipynb)
+   * Financial Analysis
+   * Location Analysis
+   * Seasonal Analysis
+   * Rating Analysis
+   * Data Visualisation
+   
+* BONUS? Sentiment analysis and rating/profit prediction?? 
 
 ## What is *Auction Hunters*?
 * Auction hunters is a TV show that aired in the USA from 2010-2015. Hosts Allen and Ton travel and bid for abandoned storage units. Each episode features their location, what storage units they bid for, how much they win or lose them for, and also chronicles the most exciting items found in each won unit and shows the people buying them, often with a demonstration.
