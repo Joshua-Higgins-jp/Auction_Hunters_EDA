@@ -40,5 +40,3 @@
 * Deciding how much to bid for a unit, including the critical maximum bid, comes down to "profiling" the unit:
    * e.g. what the contents are or appear to be, how the contents are stored (wrapped, protected, in a gun case, a safe, car cover, nothing etc), and knowledge of the used resale value of appealing visible and potential items.
    * A potential buyer won't have time to research the resale value of items during profiling, so a successful _Auction Hunter_ must have experience in identifying and valuing used goods in order to profit from a purchase.
-
-* Testing, can you read this on github? 
